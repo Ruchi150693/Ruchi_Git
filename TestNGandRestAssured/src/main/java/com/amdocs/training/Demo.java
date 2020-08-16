@@ -6,6 +6,7 @@ public class Demo {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Demo is complete");
+		System.out.println("Study is done");
 
 	}
 
