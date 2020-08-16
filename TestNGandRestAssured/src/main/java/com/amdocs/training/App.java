@@ -19,4 +19,9 @@ public class App
         System.out.println( "Software Test Engineer!" );
         
     }
+    
+    public void display()
+    {
+    	System.out.println("Display changes done to develop branch");
+    }
 }
